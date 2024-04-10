@@ -1,0 +1,11 @@
+#include "raylib.h"
+
+int void(main){
+
+    const int view_height = 800;
+    
+
+
+
+
+}
