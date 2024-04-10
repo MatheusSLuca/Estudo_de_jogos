@@ -66,7 +66,7 @@ int main(void){
     camera.projection = CAMERA_PERSPECTIVE; //camera mode
     
     Vector3 cubeposition = {0.0f,0.0f,0.0f};
-    Vector3 sizecube = {1.0f,1.0f,1.0f};
+    Vector3 sizecube = {2.0f,2.0f,2.0f};
     
     //munições
     Model ammo = LoadModel("bala/45/45.obj");
